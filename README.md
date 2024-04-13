@@ -14,21 +14,21 @@ python main.py 5 0.7 randomGraph.pdf
 ```bash
 python3 prims.py
 ```
-![Graph with MST 1](x7/images/graphPrims1.pdf)
-![Graph with MST 2](x7/images/graphPrims2.pdf)
+![Graph with MST 1](images/graphPrims1.png)
+![Graph with MST 2](images/graphPrims2.png)
 
 ## Kruskals
 ### Run
 ```bash
 python3 kruskals.py
 ```
-![Graph with MST 3](x7/images/graphKruskal1.pdf)
-![Graph with MST 4](x7/images/graphKruskal2.pdf)
+![Graph with MST 3](images/graphKruskal1.png)
+![Graph with MST 4](images/graphKruskal2.png)
 
 ## Dijkstra 
 ### Run
 ```bash
 python3 dijkstra.py
 ```
-![Graph with shortest path 1 ](x7/images/graphDijkstra1.pdf)
-![Graph with shortest path 2](x7/images/graphDijkstra2.pdf)
+![Graph with shortest path 1 ](images/graphDijkstra1.png)
+![Graph with shortest path 2](images/graphDijkstra2.png)
