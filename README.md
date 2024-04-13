@@ -1,5 +1,8 @@
 # x7
-
+### Exercises
+- Question 4 is found in x7/x7.pdf
+- Question 5,8 and 14 are inside x7 directory
+- Question 7 is the first graph in the graphs variable of kruskal.py.
 ```bash
 cd x7
 ```
